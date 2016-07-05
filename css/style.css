@@ -67,7 +67,7 @@ header .navigation a:hover{ text-decoration:underline;}
 header .navigation .last{ padding-right:0;}
 header .left_stripe, header .rigth_stripe{ position:absolute;width: 80px; height:104px; top:96px;}
 header h1{ text-align:center; position:absolute; width:339px;height:201px; left:50%; margin-left:-169px; top:30px; z-index:999;}
-header h1 a {display:inline-block;width:339px;height:201px;background:url(../images/logo.png) 0 0 no-repeat; text-decoration:none; text-indent:-9999px; z-index:88;}
+header h1 a {display:inline-block;width:339px;margin-top: 25px;height:201px;background:url(../images/logo.png) 0 0 no-repeat;text-decoration:none;text-indent:-9999px;z-index:88;}
 /*********************************content*************************************/
 #content{padding:72px 0px 58px 0px; background:url(../images/content_stripe.png) center 0 no-repeat;}
 .cont_pad{padding:58px 0px 58px 0px !important;}
